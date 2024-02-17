@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Senva</h1>
-<h3 align="center">A passionate Information Technology Studet</h3>
+<h3 align="center">A passionate Information Technology Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpesh281&label=Profile%20views&color=0e75b6&style=plastic" alt="kalpesh281" /> </p>
 
